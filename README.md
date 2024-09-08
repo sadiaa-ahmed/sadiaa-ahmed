@@ -3,7 +3,7 @@
 </div>  
   
 
-## **<div align="center">𝕴𝖓 𝖙𝖍𝖊 𝖋𝖚𝖘𝖎𝖔𝖓 𝖔𝖋 𝖎𝖓𝖓𝖔𝖛𝖆𝖙𝖎𝖔𝖓 𝖆𝖓𝖉 𝖈𝖔𝖉𝖊, 𝕴 𝖈𝖗𝖊𝖆𝖙𝖊 𝖜𝖎𝖙𝖍 𝖕𝖆𝖘𝖘𝖎𝖔𝖓. 𝕰𝖛𝖊𝖗𝖞 𝖑𝖎𝖓𝖊 𝖎𝖘 𝖆 𝖘𝖙𝖊𝖕 𝖙𝖔𝖜𝖆𝖗𝖉 𝖘𝖍𝖆𝖕𝖎𝖓𝖌 𝖙𝖔𝖒𝖔𝖗𝖗𝖔𝖜’𝖘 𝖉𝖎𝖌𝖎𝖙𝖆𝖑 𝖜𝖔𝖓𝖉𝖊𝖗𝖘.
+## <div align="center">𝕴𝖓 𝖙𝖍𝖊 𝖋𝖚𝖘𝖎𝖔𝖓 𝖔𝖋 𝖎𝖓𝖓𝖔𝖛𝖆𝖙𝖎𝖔𝖓 𝖆𝖓𝖉 𝖈𝖔𝖉𝖊, 𝕴 𝖈𝖗𝖊𝖆𝖙𝖊 𝖜𝖎𝖙𝖍 𝖕𝖆𝖘𝖘𝖎𝖔𝖓. 𝕰𝖛𝖊𝖗𝖞 𝖑𝖎𝖓𝖊 𝖎𝖘 𝖆 𝖘𝖙𝖊𝖕 𝖙𝖔𝖜𝖆𝖗𝖉 𝖘𝖍𝖆𝖕𝖎𝖓𝖌 𝖙𝖔𝖒𝖔𝖗𝖗𝖔𝖜’𝖘 𝖉𝖎𝖌𝖎𝖙𝖆𝖑 𝖜𝖔𝖓𝖉𝖊𝖗𝖘.
 
 As a passionate software developer, she loves creating innovative solutions and turning ideas into real code. With strong skills in various programming languages and development methods, she focuses on building efficient, scalable, and user-friendly applications. She pays close attention to detail and follows best practices for clean and secure coding. She enjoys solving complex problems and always looks for ways to improve her skills. Whether working on team projects or contributing to open-source, she is excited to learn, grow, and make a positive impact in the tech community.</div>**  
   
