@@ -58,18 +58,6 @@ As a passionate software developer, she loves creating innovative solutions and 
 
 </td><td valign="top" width="33%">
 
-
-
-### DevOps  
-<div align="center">  
-  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/sadiaahmed114" target="_blank">
@@ -95,13 +83,6 @@ As a passionate software developer, she loves creating innovative solutions and 
 
 <br/>  
 
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
 
 <div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
 
