@@ -20,7 +20,14 @@ As a passionate software developer, she loves creating innovative solutions and 
 - **⚡ Fun fact: I prefer tabs to spaces for indentation.**  
   
 
-<br/>  
+<br/> 
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=sadiaahmed114&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/> 
 
 ## Connect with me on
 <div align="center">
@@ -44,11 +51,5 @@ As a passionate software developer, she loves creating innovative solutions and 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sadiaahmed114&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>    
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=sadiaahmed114&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
+ 
 
