@@ -58,6 +58,8 @@ As a passionate software developer, she loves creating innovative solutions and 
 
 </td><td valign="top" width="33%">
 
+<br/>
+
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/sadiaahmed114" target="_blank">
