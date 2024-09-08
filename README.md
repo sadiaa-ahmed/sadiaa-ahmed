@@ -83,12 +83,7 @@ As a passionate software developer, she loves creating innovative solutions and 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sadiaahmed114&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
-
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
+<br/>    
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=sadiaahmed114&&style=flat-square" align="center" />
@@ -106,4 +101,3 @@ As a passionate software developer, she loves creating innovative solutions and 
             </a></div>
 <br />
 
-----
