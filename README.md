@@ -21,7 +21,26 @@ As a passionate Web developer, she loves creating innovative solutions and turni
   
 
 <br/> 
- ### Languages & Tools
+
+## Connect with me on
+<div align="center">
+<a href="https://github.com/sadiaahmed114" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/@SadiaAhmed1999" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/Sadia Ahmed" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/divine_reflections______" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div>  
+
+<br/>  
+
+ ## Languages & Tools
 
 <img align="left" alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -40,26 +59,7 @@ As a passionate Web developer, she loves creating innovative solutions and turni
 <img src="https://komarev.com/ghpvc/?username=sadiaahmed114&&style=flat-square" align="center" />
 </div>  
   
-
 <br/> 
-
-## Connect with me on
-<div align="center">
-<a href="https://github.com/sadiaahmed114" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/@SadiaAhmed1999" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/Sadia Ahmed" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/divine_reflections______" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>   
-<br/>  
-
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sadiaahmed114&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
