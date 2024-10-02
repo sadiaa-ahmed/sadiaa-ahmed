@@ -46,7 +46,7 @@ As a passionate Web developer, she loves creating innovative solutions and turni
 
 <br/>  
 
- ## Languages & Tools
+ ## Languages & Tools ⚙️:
 
 <img align="left" alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -61,7 +61,7 @@ As a passionate Web developer, she loves creating innovative solutions and turni
 
 <br/>
 
-### Most Used Languages
+## GitHub Statistics ⚡
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadiaahmed114&layout=compact&theme=radical)](https://github.com/sadiaahmed114)
 
 
