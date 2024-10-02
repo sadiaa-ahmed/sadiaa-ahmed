@@ -59,7 +59,7 @@ As a passionate Web developer, she loves creating innovative solutions and turni
   <img alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img alt="Express.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
   <img alt="Firebase" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-  <img alt="Tailwind CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+   <img alt="Tailwind CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 </div>
 
 
@@ -68,8 +68,9 @@ As a passionate Web developer, she loves creating innovative solutions and turni
 ## GitHub Statistics ⚡:
 
 <div align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadiaahmed114&layout=compact&theme=radical)](https://github.com/sadiaahmed114)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadiaahmed114&layout=compact&theme=radical)](https://github.com/sadiaahmed114)
 </div>
+
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadiaahmed114&theme=radical&hide_border=true" />
