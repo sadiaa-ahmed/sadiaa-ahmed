@@ -24,19 +24,16 @@ As a passionate Web developer, she loves creating innovative solutions and turni
 ## Connect with Me 🤝:
 
 <div align="center">
-  <a href="https://github.com/yourusername" target="_blank">
+  <a href="https://github.com/sadiaahmed114" target="_blank">
     <img alt="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   </a>
-  <a href="https://linkedin.com/in/yourusername" target="_blank">
+  <a href="https://linkedin.com/in/Sadia Ahmed" target="_blank">
     <img alt="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
   </a>
-  <a href="https://twitter.com/yourusername" target="_blank">
+  <a href="https://twitter.com/@SadiaAhmed1999" target="_blank">
     <img alt="Twitter" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
   </a>
-  <a href="https://facebook.com/yourusername" target="_blank">
-    <img alt="Facebook" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" />
-  </a>
-  <a href="https://instagram.com/yourusername" target="_blank">
+  <a href="https://instagram.com/divine_reflections______ " target="_blank">
     <img alt="Instagram" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" />
   </a>
 </div>
