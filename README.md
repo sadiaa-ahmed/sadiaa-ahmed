@@ -34,7 +34,7 @@ As a passionate Web developer, she loves creating innovative solutions and turni
     <img alt="Twitter" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
   </a>
   <a href="https://instagram.com/divine_reflections" target="_blank">
-    <img alt="Instagram" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" />
+    <img alt="Instagram" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />
   </a>
 </div>
 
