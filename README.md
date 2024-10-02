@@ -28,7 +28,7 @@ As a passionate Web developer, she loves creating innovative solutions and turni
 
 <br/>
 
-## Connect with me on 🤝
+## Connect with me on 🤝:
 <div align="center">
 <a href="https://github.com/sadiaahmed114" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -45,6 +45,7 @@ As a passionate Web developer, she loves creating innovative solutions and turni
 </div>  
 
 <br/>  
+
 ## Languages & Tools ⚙️:
 
 <div align="center">
