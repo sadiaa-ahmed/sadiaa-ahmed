@@ -9,18 +9,11 @@
 As a passionate Web developer, she loves creating innovative solutions and turning ideas into real code. With strong skills in various programming languages and development methods, she focuses on building efficient, scalable, and user-friendly applications. She pays close attention to detail and follows best practices for clean and secure coding. She enjoys solving complex problems and always looks for ways to improve her skills. Whether working on team projects or contributing to open-source, she is excited to learn, grow, and make a positive impact in the tech community.</div>
   
 
-- **🔭 I am  currently working on Frontend Development.**  
-  
-
 - **🌱 Currently Learning**  
   
 
 - **❓ Ask me about anything related to Full stack development  and related technologies**  
-  
-
-- **⚡ Fun fact: I prefer tabs to spaces for indentation.**  
-  
-
+   
 <br/> 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=sadiaahmed114&&style=flat-square" align="center" />
@@ -58,7 +51,7 @@ As a passionate Web developer, she loves creating innovative solutions and turni
   <img alt="React" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img alt="Express.js" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
   <img alt="Firebase" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-   <img alt="Tailwind CSS" width="40px" src="https://camo.githubusercontent.com/873beea30e00fce2e4e2ec49f8b2122a03b1c0f22636cd3e84084c70b789a6db/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d72656163742c7461696c77696e642c6e6578746a732c72656475782c7375706162617365" />
+  <img alt="Tailwind CSS" width="40px" src="https://camo.githubusercontent.com/873beea30e00fce2e4e2ec49f8b2122a03b1c0f22636cd3e84084c70b789a6db" />
 </div>
 </div>
 
