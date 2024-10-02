@@ -70,9 +70,8 @@ As a passionate Web developer, she loves creating innovative solutions and turni
 <br/>
 
 <div align="center">
-  <div style="margin-right: 30px; margin-top: -20px;">
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadiaahmed114&layout=compact&theme=radical)](https://github.com/sadiaahmed114)
-  </div>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- Adds space to the left -->
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadiaahmed114&layout=compact&theme=radical)](https://github.com/sadiaahmed114)
 </div>
 
 <br/>
@@ -80,7 +79,6 @@ As a passionate Web developer, she loves creating innovative solutions and turni
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sadiaahmed114&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" />
 </div>
- 
 
 
 
