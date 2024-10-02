@@ -1,13 +1,6 @@
 <div align="center">
 <img src="https://media.licdn.com/dms/image/v2/D4D16AQGZo9pjpqdH8A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1712425990405?e=1731542400&v=beta&t=wmJJeXi3nfWwRo3UjxaPJ7YjR-HvyxlItyePA6VlaYc" align="center" style="width: 100%" />
-</div>  
-
-<br/>
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=sadiaahmed114&&style=flat-square" align="center" />
-</div>  
-  
+</div>    
 <br/> 
   
 
@@ -29,6 +22,11 @@ As a passionate Web developer, she loves creating innovative solutions and turni
   
 
 <br/> 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=sadiaahmed114&&style=flat-square" align="center" />
+</div> 
+
+<br/>
 
 ## Connect with me on
 <div align="center">
