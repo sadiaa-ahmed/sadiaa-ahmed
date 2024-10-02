@@ -70,6 +70,10 @@ As a passionate Web developer, she loves creating innovative solutions and turni
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadiaahmed114&layout=compact&theme=radical)](https://github.com/sadiaahmed114)
 
+<div align="right">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadiaahmed114&theme=radical&hide_border=true" />
+</div>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sadiaahmed114&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" />
 </div>
