@@ -60,7 +60,10 @@ As a passionate Web developer, she loves creating innovative solutions and turni
 <img align="left" alt="Firebase" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
 
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&langs_count=6&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadiaahmed114&layout=compact&theme=radical)](https://github.com/sadiaahmed114)
+
 
 <br/>
 
