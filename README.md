@@ -45,7 +45,6 @@ As a passionate Web developer, she loves creating innovative solutions and turni
 </div>  
 
 <br/>  
-
 ## Languages & Tools ⚙️:
 
 <div align="center">
@@ -59,8 +58,7 @@ As a passionate Web developer, she loves creating innovative solutions and turni
   <img alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img alt="Express.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
   <img alt="Firebase" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-  <img alt="Tailwind CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" onerror="this.onerror=null; 
-  this.src='https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg';" />
+  <img alt="Tailwind CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 </div>
 
 <br/>
@@ -82,9 +80,3 @@ As a passionate Web developer, she loves creating innovative solutions and turni
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadiaahmed114&theme=radical&hide_border=true" />
 </div>
-
-
-
-
- 
-
