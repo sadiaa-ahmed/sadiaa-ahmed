@@ -28,7 +28,7 @@ As a passionate Web developer, she loves creating innovative solutions and turni
 
 <br/>
 
-## Connect with me on
+## Connect with me on 🤝
 <div align="center">
 <a href="https://github.com/sadiaahmed114" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -58,6 +58,9 @@ As a passionate Web developer, she loves creating innovative solutions and turni
 <img align="left" alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="Express.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
 <img align="left" alt="Firebase" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&langs_count=6&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 
