@@ -15,10 +15,9 @@ As a passionate Web developer, she loves creating innovative solutions and turni
 - **❓ Ask me about anything related to Full stack development  and related technologies**  
    
 <br/> 
-<div align="center">
-![Profile views](https://komarev.com/ghpvc/?username=sadiaahmed114&label=Profile%20views&color=11eb11&style=for-the-badge)
-</div> 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sadiaahmed114&label=Profile%20views&color=11eb11&style=for-the-badge" alt="Profile views" />
+</p>
 <br/>
 
 ## Connect with Me 🤝:
