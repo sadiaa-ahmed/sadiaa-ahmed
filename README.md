@@ -16,7 +16,7 @@ As a passionate Web developer, she loves creating innovative solutions and turni
    
 <br/> 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=sadiaahmed114&&style=flat-square" align="center" />
+![Profile views](https://komarev.com/ghpvc/?username=sadiaahmed114&label=Profile%20views&color=11eb11&style=for-the-badge)
 </div> 
 
 <br/>
