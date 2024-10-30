@@ -52,7 +52,11 @@ As a passionate Web developer, she loves creating innovative solutions and turni
   <img alt="Vercel" width="45px" src="https://api.iconify.design/logos-vercel-icon.svg" />
   <img alt="React" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img alt="Firebase" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-  <img alt="Tailwind CSS" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+  <div style="width: 45px;">
+  <svg viewBox="0 0 256 153.6" xmlns="http://www.w3.org/2000/svg" fill="none">
+    <path fill="#38BDF8" d="M128 0c-31.232 0-52.48 15.424-64 46.272 12.672-10.24 23.36-15.104 32-14.656 7.04.32 11.744 4.512 16.928 10.24 7.68 8.544 16.832 18.752 37.6 18.752 31.296 0 52.544-15.424 64-46.272-12.672 10.24-23.36 15.104-32 14.656-7.04-.32-11.744-4.512-16.928-10.24C158.848 4.608 149.632 0 128 0zm-64 76.8C32.768 76.8 11.52 92.224 0 123.072c12.672-10.24 23.36-15.104 32-14.656 7.04.32 11.744 4.512 16.928 10.24 7.68 8.544 16.832 18.752 37.6 18.752 31.296 0 52.544-15.424 64-46.272-12.672 10.24-23.36 15.104-32 14.656-7.04-.32-11.744-4.512-16.928-10.24-7.68-8.64-16.896-13.248-38.528-13.248z"/>
+  </svg>
+</div>
 
 </div>
 
