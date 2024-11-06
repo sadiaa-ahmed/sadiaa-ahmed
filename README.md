@@ -27,7 +27,7 @@ As a passionate Web developer, she loves creating innovative solutions and turni
   <a href="https://github.com/sadiaahmed114" target="_blank">
     <img alt="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   </a>
-  <a href="https://linkedin.com/in/Sadia Ahmed" target="_blank">
+  <a href="https://www.linkedin.com/in/sadiaahmed14/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B1UY%2Bqs6uTmGvoWM%2BqG5PeQ%3D%3D" target="_blank">
     <img alt="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
   </a>
   <a href="https://twitter.com/@SadiaAhmed1999" target="_blank">
