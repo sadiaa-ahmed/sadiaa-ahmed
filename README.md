@@ -74,6 +74,7 @@ As a passionate Web developer, she loves creating innovative solutions and turni
 
 <br/>
 
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=sadiaahmed114&theme=radical&hide_border=true)
+| ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=sadiaahmed114&theme=radical&hide_border=true) |
+|:--:|
 
 
