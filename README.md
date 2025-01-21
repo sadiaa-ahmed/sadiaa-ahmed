@@ -11,9 +11,7 @@ As a passionate Web developer, she loves creating innovative solutions and turni
 
 - **🌱 Currently Learning**  
 - **❓ Ask me about anything related to Full stack development  and related technologies**
-- **📧 How to reach me sadiaahmed26373@gmail.com**
-
-
+  
    
 <br/> 
 <p align="center">
