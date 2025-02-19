@@ -11,8 +11,8 @@ As a passionate Web developer, she loves creating innovative solutions and turni
 
 - **🌱 Currently Learning React.js & Python🐍**  
 - **❓ Ask me about anything related to Next.js , React.js , Java , Framer motion  and related technologies**
-- ## 🌐 My Portfolio
-   [Visit My Portfolio](https://sadia-codes.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue)](https://sadia-codes.vercel.app/)
+
 
   
    
