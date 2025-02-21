@@ -74,11 +74,11 @@ As a passionate Web developer, she loves creating innovative solutions and turni
 </div>
 
 <br/>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sadiaahmed114&theme=radical&hide_border=true)
-
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadiaahmed114&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
-</div>   
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadiaahmed114&theme=radical&hide_border=true" alt="GitHub Streak Stats"/>
+</div>
+
+ 
 
 
