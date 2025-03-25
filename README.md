@@ -63,20 +63,20 @@ As a passionate Web developer, she loves creating innovative solutions and turni
 
  <div align="center">
   <a href="https://github.com/sadiaahmed114">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadiaahmed114&layout=compact&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadiaa-ahmed&layout=compact&theme=radical" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sadiaahmed114&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sadiaa-ahmed&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadiaahmed114&theme=radical&hide_border=true" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadiaa-ahmed&theme=radical&hide_border=true" alt="GitHub Streak Stats"/>
 </div>
 
  
