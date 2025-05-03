@@ -9,8 +9,7 @@
 As a passionate Web developer, she loves creating innovative solutions and turning ideas into real code. With strong skills in various programming languages and development methods, she focuses on building efficient, scalable, and user-friendly applications. She pays close attention to detail and follows best practices for clean and secure coding. She enjoys solving complex problems and always looks for ways to improve her skills. Whether working on team projects or contributing to open-source, she is excited to learn, grow, and make a positive impact in the tech community.</div>
   
 
-- **🌱 Currently Learning React.js & React-native**  
-- **❓ Ask me about anything related to Next.js , React.js , Java , Framer motion  and related technologies**
+- **🌱 Currently Learning React.js & React-native** 
 - **🚀 Portfolio ➡ https://sadia-codes.vercel.app/** 
 
 
