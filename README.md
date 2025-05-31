@@ -56,16 +56,6 @@ As a passionate Web developer, she loves creating innovative solutions and turni
 </div>
 
 <br/>
-
-## GitHub Statistics ⚡:
-
-
- <div align="center">
-  <a href="https://github.com/sadiaahmed114">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadiaa-ahmed&layout=compact&theme=radical" />
-  </a>
-</div>
-
 <br/>
 
 <div align="center">
